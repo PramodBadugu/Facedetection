@@ -2,7 +2,7 @@
 This works using openCV ,Tensorflow , and Matplotlib
 
 #installation 
-Make a file , open cmd from address and enter 
+Make a folder , open cmd from address and enter 
 pip install -r requirements.txt
 This will installs each and every modules that are imported and being used for this project
 Hey , U know something this Model is already  trained , So chill just use it
